@@ -50,7 +50,7 @@ namespace MichaelSACU301task3
                 sales.Add(s);
             }
         }
-        ////i tried my best on the selection sort but i can't figure it out so i just put my coding in just in case there can be some points i can gain from atleast trying
+        //i tried my best on the selection sort but i can't figure it out so i just put my coding in just in case there can be some points i can gain from atleast trying
         //private List<int> SelectionSort(List<int> Rating)
         //{
         //  for (int i = 0; i < Rating.Count  -1; i++)
