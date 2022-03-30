@@ -1,0 +1,11 @@
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\bin\Debug\MichaelSACU301task3.exe.config
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\bin\Debug\MichaelSACU301task3.exe
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\bin\Debug\MichaelSACU301task3.pdb
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\obj\Debug\MichaelSACU301task3.csproj.AssemblyReference.cache
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\obj\Debug\MichaelSACU301task3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\obj\Debug\MichaelSACU301task3.Form1.resources
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\obj\Debug\MichaelSACU301task3.Properties.Resources.resources
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\obj\Debug\MichaelSACU301task3.csproj.GenerateResource.cache
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\obj\Debug\MichaelSACU301task3.csproj.CoreCompileInputs.cache
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\obj\Debug\MichaelSACU301task3.exe
+C:\Users\PhucDatBich\source\repos\MichaelSACU301task3\MichaelSACU301task3\obj\Debug\MichaelSACU301task3.pdb
